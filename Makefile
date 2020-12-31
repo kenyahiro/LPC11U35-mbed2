@@ -39,7 +39,7 @@ VPATH = ..
 ###############################################################################
 # Project settings
 
-PROJECT := myprog5
+PROJECT := LPC11U35-mbed2
 
 
 # Project settings
